@@ -73,6 +73,5 @@ Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarc
 
 ## Authors
 Caitlin!
-[TODO: Add your name here! This is a great first commit.]
 
 
