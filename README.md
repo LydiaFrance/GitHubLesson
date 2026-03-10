@@ -23,10 +23,10 @@ The dataset includes the following morphological measurements:
 
 | Variable | Range |
 |----------|-------------|
-| `bill_length_mm` | [TODO: Include range] |
-| `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
-| `body_mass_g` | [TODO: Include range] |
+| `bill_length_mm` | 10-50 |
+| `bill_depth_mm` | 2-10 |
+| `flipper_length_mm` | 30-100 |
+| `body_mass_g` | 4000-15000|
 
 ## What the Analysis Does
 
