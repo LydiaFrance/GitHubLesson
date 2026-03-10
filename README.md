@@ -1,5 +1,7 @@
 # Penguin Analysis
 
+hello world
+
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
 <img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
@@ -11,11 +13,11 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
 
-**Research location:** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`]
+**Research location:** Torgersen, Biscoe and Dream
 
-**Sample size:** [TODO: How many penguins are in the raw dataset? Hint: look at how the analysis script checks this]
+**Sample size:** 344
 
-**Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
+**Years of data collection:** 2007-2009
 
 ## Variables Measured
 
@@ -23,10 +25,10 @@ The dataset includes the following morphological measurements:
 
 | Variable | Range |
 |----------|-------------|
-| `bill_length_mm` | [TODO: Include range] |
-| `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
-| `body_mass_g` | [TODO: Include range] |
+| `bill_length_mm` | 1000000000 - 100000000000000000000000 mm |
+| `bill_depth_mm` | 0.002 - 0.01 mm |
+| `flipper_length_mm` | 2 - 3 miles |
+| `body_mass_g` | 2 - 3 tonnes |
 
 ## What the Analysis Does
 
@@ -37,14 +39,6 @@ The R script `run_analysis_SOLUTIONS.R` performs the following steps:
 3. **Cluster analysis** -- [TODO: Which two measurements are used to show how species cluster? Hint: look at section 7]
 4. **Regression analysis** -- [TODO: What relationship does the regression plot examine? Hint: look at section 7]
 
-## Plots Produced
-
-The analysis generates a multi-panel figure combining four plots:
-
-- **Top left:** [TODO: What does this plot show?]
-- **Top right:** [TODO: What does this plot show?]
-- **Bottom left:** [TODO: What does this plot show?]
-- **Bottom right:** [TODO: What does this plot show?]
 
 ## Project Structure
 
@@ -66,13 +60,5 @@ penguin-analysis/
 2. Install required packages: `tidyverse`, `janitor`, `palmerpenguins`, `patchwork`
 3. Run the script from top to bottom
 4. Outputs are saved to the `figures/` folder
-
-## Data Source
-
-Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarctica) penguin data.* R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/
-
-## Authors
-
-[TODO: Add your name here! This is a great first commit.]
 
 
