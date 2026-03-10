@@ -23,10 +23,10 @@ The dataset includes the following morphological measurements:
 
 | Variable | Range |
 |----------|-------------|
-| `bill_length_mm` | [TODO: Include range] |
-| `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
-| `body_mass_g` | [TODO: Include range] |
+| `bill_length_mm` | 34.1 - 55.9 |
+| `bill_depth_mm` | 13.1 - 21.5 |
+| `flipper_length_mm` | 230 is big |
+| `body_mass_g` | 6300 chunky penguin |
 
 ## What the Analysis Does
 
