@@ -1,21 +1,7 @@
-# Penguin Analysis
 
-A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
+**Sample size:** 3440000
 
-<img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
-
-
-## About the Data
-
-This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) at the [Palmer Station Long Term Ecological Research](https://pallter.marine.rutgers.edu/) site in Antarctica.
-
-**Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
-
-**Research location:** Torgersen, Biscoe, Dream
-
-**Sample size:** 344
-
-**Years of data collection:** 2007-2009
+**Years of data collection:** 2007-200000000000009
 
 ## Variables Measured
 
@@ -28,7 +14,7 @@ The dataset includes the following morphological measurements:
 | `flipper_length_mm` | im going to eat a penguin |
 | `body_mass_g` | AHHHHHHHHHHHHHHHHHHHHHHHHH |
 
-## What the Analysis Does
+## What the Analysis Does okkkk
 
 The R script `run_analysis_SOLUTIONS.R` performs the following steps:
 
