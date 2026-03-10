@@ -25,10 +25,10 @@ The dataset includes the following morphological measurements:
 
 | Variable | Range |
 |----------|-------------|
-| `bill_length_mm` | [TODO: Include range] |
-| `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
-| `body_mass_g` | [TODO: Include range] |
+| `bill_length_mm` | 1000000000 - 100000000000000000000000 mm |
+| `bill_depth_mm` | 0.002 - 0.01 mm |
+| `flipper_length_mm` | 2 - 3 miles |
+| `body_mass_g` | 2 - 3 tonnes |
 
 ## What the Analysis Does
 
@@ -68,13 +68,5 @@ penguin-analysis/
 2. Install required packages: `tidyverse`, `janitor`, `palmerpenguins`, `patchwork`
 3. Run the script from top to bottom
 4. Outputs are saved to the `figures/` folder
-
-## Data Source
-
-Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarctica) penguin data.* R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/
-
-## Authors
-
-[TODO: Add your name here! This is a great first commit.]
 
 
