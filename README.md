@@ -13,7 +13,7 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Research location:** Torgersen, Dream, Biscoe
 
-**Sample size:** [TODO: How many penguins are in the raw dataset? Hint: look at how the analysis script checks this]
+**Sample size:** **More Than 10**
 
 **Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
 
