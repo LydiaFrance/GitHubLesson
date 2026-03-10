@@ -9,10 +9,12 @@ The dataset includes the following morphological measurements:
 
 | Variable | Range |
 |----------|-------------|
+
 | `bill_length_mm` | i have no bloody idea |
 | `bill_depth_mm` | why does code break all the time |
 | `flipper_length_mm` | im going to eat a penguin |
 | `body_mass_g` | AHHHHHHHHHHHHHHHHHHHHHHHHH |
+
 
 ## What the Analysis Does okkkk
 
