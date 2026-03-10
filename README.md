@@ -9,9 +9,9 @@ A reproducible analysis of morphological measurements from the Palmer Penguins d
 
 This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) at the [Palmer Station Long Term Ecological Research](https://pallter.marine.rutgers.edu/) site in Antarctica.
 
-**Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
+**Species studied:** Gentoo, Chinstrap and Adelie penguins. 
 
-**Research location:** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`]
+**Research location:** Torgersen, Biscoe and Dream Islands
 
 **Sample size:** [TODO: How many penguins are in the raw dataset? Hint: look at how the analysis script checks this]
 
@@ -73,6 +73,6 @@ Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarc
 
 ## Authors
 
-[TODO: Add your name here! This is a great first commit.]
+Luca Adams
 
 
