@@ -4,7 +4,6 @@ A reproducible analysis of morphological measurements from the Palmer Penguins d
 
 <img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
 
-
 ## About the Data
 
 This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) at the [Palmer Station Long Term Ecological Research](https://pallter.marine.rutgers.edu/) site in Antarctica.
