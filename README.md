@@ -2,7 +2,7 @@
 
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
-<img src="https://cults3d.com/en/3d-model/game/marcus-the-worm-vr-chat?srsltid=AfmBOorpSqIt3s67egIFGPGG0t-IIYjkZaRYUQiw1NuvbvmAgR0BfywK" width=50%>
+<img src="https://fbi.cults3d.com/uploaders/29698298/illustration-file/cb4f35d2-940a-4904-812e-09ce6c0dee4e/IMG_1407.png" width=50%>
 
 
 ## About the Data
