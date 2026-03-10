@@ -4,6 +4,7 @@ A reproducible analysis of morphological measurements from the Palmer Penguins d
 
 <img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
 
+# Poo
 
 ## About the Data
 
@@ -73,6 +74,5 @@ Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarc
 
 ## Authors
 
-Sophie Shindler
-
+Poophie Shindler
 
