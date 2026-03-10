@@ -39,14 +39,6 @@ The R script `run_analysis_SOLUTIONS.R` performs the following steps:
 3. **Cluster analysis** -- [TODO: Which two measurements are used to show how species cluster? Hint: look at section 7]
 4. **Regression analysis** -- [TODO: What relationship does the regression plot examine? Hint: look at section 7]
 
-## Plots Produced
-
-The analysis generates a multi-panel figure combining four plots:
-
-- **Top left:** [TODO: What does this plot show?]
-- **Top right:** [TODO: What does this plot show?]
-- **Bottom left:** [TODO: What does this plot show?]
-- **Bottom right:** [TODO: What does this plot show?]
 
 ## Project Structure
 
