@@ -11,7 +11,18 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
 
-**Research location:** Torgersen, Dream, Biscoe
+**Research location:** Torgersen, Dr## Variables Measured
+
+The dataset includes the following morphological measurements:
+
+| Variable | Range |
+|----------|-------------|
+| `bill_length_mm` | [TODO: Include range] |
+| `bill_depth_mm` | [TODO: Include range] |
+| `flipper_length_mm` | [TODO: Include range] |
+| `body_mass_g` | [TODO: Include range] |
+
+## What the Analysis Doeseam, Biscoe
 
 **Sample size:** **More Than 10**
 
@@ -46,18 +57,7 @@ The analysis generates a multi-panel figure combining four plots:
 - **Bottom left:** [TODO: What does this plot show?]
 - **Bottom right:** [TODO: What does this plot show?]
 
-## Project Structure
 
-```
-penguin-analysis/
-├── README.md              ← You are here!
-├── .gitignore             ← [TODO: What does a .gitignore file do?]
-├── data/
-│   └── penguins_raw.csv   ← [TODO: Describe this file in one sentence]
-├── functions/
-│   ├── plotting_functions.R  ← [TODO: Describe what this file contains]
-│   └── saving_functions.R    ← [TODO: Describe what this file contains]
-└── run_analysis_SOLUTIONS.R  ← [TODO: Describe what this file does]
 ```
 
 ## How to Run
