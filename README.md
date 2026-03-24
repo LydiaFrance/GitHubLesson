@@ -2,7 +2,6 @@
 
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
-<img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
 
 
 ## About the Data
@@ -11,11 +10,11 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
 
-**Research location:** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`]
+**Research location:** Torgersen, Biscoe, Dream islands.
 
-**Sample size:** [TODO: How many penguins are in the raw dataset? Hint: look at how the analysis script checks this]
+**Sample size:** 344
 
-**Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
+**Years of data collection:** 2007 - 2009
 
 ## Variables Measured
 
@@ -73,6 +72,6 @@ Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarc
 
 ## Authors
 
-[TODO: Add your name here! This is a great first commit.]
-
+Alfie Lockey
+lula was here :p
 
